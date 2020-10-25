@@ -28,7 +28,7 @@ mainClassName = 'it.gradle.tamplate.Main'
 
 sonarqube {
   properties {
-    property "sonar.projectKey", "FNX-hub_GradleTamplate"
+    property "sonar.projectKey", "FNX-hub_ProvaGradle"
   }
 }
 
